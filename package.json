@@ -18,7 +18,10 @@
     "url": "https://github.com/gracieuxyh/gargantua/issues"
   },
   "homepage": "https://github.com/gracieuxyh/gargantua#readme",
-  "dependencies": {},
+  "dependencies": {
+    "@emotion/core": "^10.0.22",
+    "react-spring": "^8.0.27"
+  },
   "devDependencies": {
     "@babel/core": "^7.7.4",
     "@storybook/addon-actions": "^5.2.6",
