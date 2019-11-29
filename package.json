@@ -1,0 +1,30 @@
+{
+  "name": "gargantua",
+  "version": "0.0.0",
+  "description": "gargantua: react ui component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gracieuxyh/gargantua.git"
+  },
+  "author": "gracieuxyh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gracieuxyh/gargantua/issues"
+  },
+  "homepage": "https://github.com/gracieuxyh/gargantua#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@storybook/addon-actions": "^5.2.6",
+    "@storybook/addon-links": "^5.2.6",
+    "@storybook/addons": "^5.2.6",
+    "@storybook/react": "^5.2.6",
+    "babel-loader": "^8.0.6"
+  }
+}
