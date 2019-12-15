@@ -15,5 +15,5 @@
     "declarationDir": "dist/types"
   },
   "include": ["src"],
-  "exclude": ["**/*.stories.tsx"]
+  "exclude": ["**/*.stories.tsx", "**/*.stories.mdx"]
 }
