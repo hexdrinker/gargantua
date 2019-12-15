@@ -16,6 +16,7 @@
   },
   "author": "gracieuxyh",
   "license": "MIT",
+  "types": "dist/types/index.d.ts",
   "bugs": {
     "url": "https://github.com/gracieuxyh/gargantua/issues"
   },
